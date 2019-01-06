@@ -9,4 +9,13 @@ body {
 
 	background: 
 	url('https://cdn.codeandweb.com/blog/2016/05/10/how-to-create-a-sprite-sheet/spritestrip.png') 0px 0px;
+/* test other spries  */
+  /*  url('https://cdn.codeandweb.com/blog/2016/05/10/how-to-create-a-sprite-sheet/spritestrip.png') 0px 0px;    */
+
+/* center image */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
 }
